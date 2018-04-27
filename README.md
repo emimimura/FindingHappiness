@@ -1,6 +1,6 @@
-#Finding Happiness
+# Finding Happiness
 
-<p><a href="https://github.com/emimimura/FindingHappiness/blob/master/2016.csv">Download dataset</a></p> 
+<p><a href="https://github.com/emimimura/FindingHappiness/blob/master/2016.csv"><b>Download dataset</b></a></p> 
 
 <p>“The World Happiness Report is a landmark survey of the state of global 
 happiness. The first report was published in 2012, the second in 2013, the third 
